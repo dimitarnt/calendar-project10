@@ -24,7 +24,7 @@
 #include "get_functions.h"
 #include "current_day_assessment_functions.h"
 #include "validating_input_functions.h"
-#include "../project10/calendar_structure_functions.h"
+#include "calendar_structure_functions.h"
 #include "event_functions.h"
 
 int main() {
