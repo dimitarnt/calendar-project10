@@ -15,7 +15,7 @@
   For each event the corresponding day of the week, day of the month and name are displayed.<br>
 4) List of events<br>
   All events are listed with their corresponding name and start and end date.<br>
-  If it is a one day event only their start date is shown.<br>
+  If it is a one day event only it's start date is shown.<br>
 5) Add event<br>
   The user is prompted to enter an event name, start date and end date.<br>
   After that the event is put and sorted in a file with all other events.<br>
